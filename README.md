@@ -14,7 +14,7 @@ vagrant up
 
 ## Entrando nas máquinas
 as máquinas são tem os seguintes nomes:
-node-1,node-2 e node-3.
+k8-1,k8-2 e k8-3.
 escolha o node desejado e utilize o comando:
 
 ```bash
